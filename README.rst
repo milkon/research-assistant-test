@@ -18,11 +18,11 @@ How to do it?
 4. Share the folder with me, using either my personal or work email address
 
 .. tip::
-   Tip: This file is itself written in ReStructuredText format and contains almost
+   This file is itself written in ReStructuredText format and contains almost
    everything you need to know in order to complete the task. Though further 
    research is welcome.
 
 .. tip::
-   Tip: You may try to find an online ReStructuredText editor to help you with 
-   editing/testing 
+   You may try to find an online ReStructuredText editor to help you with 
+   editing/testing
 
