@@ -18,9 +18,9 @@ How to do it?
 4. Share the folder with me, using either my personal or work email address
 
 .. tip::
-   This file is itself written in ReStructuredText format and contains almost
-   everything you need to know in order to complete the task. Though further 
-   research is welcome.
+   This file is itself written in ReStructuredText format (click 'raw' to 
+   see the source) and contains almost everything you need to know in order 
+   to complete the task. Although further research is welcome.
 
 .. tip::
    You may try to find an online ReStructuredText editor to help you with 
