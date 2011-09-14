@@ -18,11 +18,16 @@ How to do it?
 4. Share the folder with me, using either my personal or work email address
 
 .. tip::
-   This file is itself written in ReStructuredText format (click 'raw' to 
+   This file is itself written in reStructuredText format (click 'raw' to 
    see the source) and contains almost everything you need to know in order 
    to complete the task. Although further research is welcome.
 
 .. tip::
-   You may try to find an online ReStructuredText editor to help you with 
+   You may try to find an online reStructuredText editor to help you with 
    editing/testing
+
+.. note::
+   Apparently this is the common problem, so please note: reStructuredText is 
+   a plain-text format, that you could (and should) edit in a simple text 
+   editor, such as Notepad. Don't rely on any specialized editor too much.
 
