@@ -16,6 +16,7 @@ How to do it?
 
 3. Create a Dropbox folder containing only the resulting file 
 4. Share the folder with me, using either my personal or work email address
+   (find them)
 
 .. tip::
    This file is itself written in reStructuredText format (click 'raw' to 
