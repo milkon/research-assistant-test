@@ -9,7 +9,7 @@ first voyage of discovery, to `Australia <http://en.wikipedia.org
 /wiki/Australia>`_ and `New Zealand <http://en.wikipedia.org/wiki/
 New_Zealand>`_ from 1769 to 1771.
 
-*Construction Endeavour* was originally a merchant collier named 
+Construction: *Endeavour* was originally a merchant collier named 
 `Earl of Pembroke <http://en.wikipedia.org/wiki/Earl_of_Pembroke>`_, 
 launched in June 1764 from the coal and whaling port of `Whitby 
 <http://en.wikipedia.org/wiki/Whitby>`_ in `North Yorkshire 
