@@ -1,9 +1,9 @@
-============
-HMS Endeavor
-============
+==============
+HMS *Endeavor*
+==============
 Summary
 -------
-*HMS Endeavour*, also known as *HM Bark Endeavour*, was a `British Royal Navy
+HMS *Endeavour*, also known as HM Bark *Endeavour*, was a `British Royal Navy
 <http://en.wikipedia.org/wiki/British_Royal_Navy>`_ research vessel commanded 
 by Lieutenant `James Cook <http://en.wikipedia.org/wiki/James_Cook>`_ on his
 first voyage of discovery, to `Australia <http://en.wikipedia.org
