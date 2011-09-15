@@ -1,5 +1,6 @@
-HMS Endeavour
-=============
+============
+HMS Endeavor
+============
 Summary
 -------
 *HMS Endeavour*, also known as *HM Bark Endeavour*, was a `British Royal Navy
@@ -9,7 +10,9 @@ first voyage of discovery, to `Australia <http://en.wikipedia.org
 /wiki/Australia>`_ and `New Zealand <http://en.wikipedia.org/wiki/
 New_Zealand>`_ from 1769 to 1771.
 
-Construction: *Endeavour* was originally a merchant collier named 
+Construction
+------------
+*Endeavour* was originally a merchant collier named 
 `Earl of Pembroke <http://en.wikipedia.org/wiki/Earl_of_Pembroke>`_, 
 launched in June 1764 from the coal and whaling port of `Whitby 
 <http://en.wikipedia.org/wiki/Whitby>`_ in `North Yorkshire 
@@ -20,7 +23,9 @@ deep hold. Her length was 106 feet (32 m), and 97 feet 7 inches (29.74 m) on
 her lower deck, with a beam of 29 feet 3 inches (8.92 m). Her burthen was 
 368 71/94 tons.
 
-Voyage of discovery, the first voyage of `James Cook 
+Voyage of discovery
+-------------------
+The first voyage of `James Cook 
 <http://en.wikipedia.org/wiki/James_Cook>`_ was a combined 
 `Royal Navy <http://en.wikipedia.org/wiki/Royal_Navy>`_ and 
 `Royal Society <http://en.wikipedia.org/wiki/Royal_Society>`_ expedition to 
